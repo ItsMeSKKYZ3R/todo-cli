@@ -7,7 +7,7 @@
 # Docs
 
 ## Install todo-cli
-### For install todo-cli, you need to download the installer for [Windows](https://skkyz3r.fr/todo/TodoSetup.exe) or [Linux](https://skkyz3R.fr/todo/installer.sh).
+### For install todo-cli, you need to download the installer for [Windows](https://skkyz3r.fr/old/todo/TodoSetup.exe) or [Linux](https://skkyz3r.fr/old/todo/installer.sh).
 
 ---
 
